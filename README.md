@@ -16,7 +16,19 @@
 Vamos lá, você precisa fazer o download de todo o pacote atlantus e prosseguir com as instalações.
 
 
+Baixe as seguintes ferramentas:
 
+netframework 4.5.2
+https://www.microsoft.com/en-us/download/details.aspx?id=42642
+
+visual c++
+https://www.microsoft.com/en-us/download/details.aspx?id=48145
+
+netcore runtime
+https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-5.0.11-windows-x64-installer
+
+xampp
+https://www.apachefriends.org/xampp-files/7.4.25/xampp-windows-x64-7.4.25-0-VC15-installer.exe
 
 <br>
 <br>
